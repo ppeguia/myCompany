@@ -9,9 +9,10 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <junit.version>3.8.1</junit.version>
     <spring.version>4.3.9.RELEASE</spring.version>
-    <jdk.version>1.8</jdk.version>
-    <version.jboss.bom>10.0.0.Final</version.jboss.bom>
+    <pathexecutableL>/usr/lib/jvm/java-8-oracle/bin/javac</pathexecutableL>
+    <pathexecutableW>C:\Program Files\Java\jdk1.8.0_121\bin\javac</pathexecutableW>
   </properties>
     
   <modules>
